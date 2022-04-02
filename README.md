@@ -16,7 +16,6 @@ Things I'm interested in include:
 
 I speak German, English, and some broken Italian. And that's really only a little bit, so if you do want to message me about something, don't use Italian.
 
-Upcoming: an overview of my various projects here and a bit more about that federalism thing.
 
 <!---
 jseltmann/jseltmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
