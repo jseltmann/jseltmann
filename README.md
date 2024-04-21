@@ -4,17 +4,14 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-Hey, I'm Johann Seltmann, student at University of Potsdam.
+Hey, I'm Johann Seltmann, software developer at iur.crowd.
 
-I just finished my master's thesis about the knowledge-differences between text corpora and vision-and-language corpora.
 
 Things I'm interested in include:
 - computational linguistics
 - especially simple language
 - reinforcement learning and evolutionary algorithms
 - European 🇪🇺 and World 🇺🇳 federalism
-
-I speak German, English, and some broken Italian. And that's really only a little bit, so if you do want to message me about something, don't use Italian.
 
 Here are some of my projects, in various stages of well-documentedness:
 - [DSGeneration](https://github.com/jseltmann/DSGeneration): A research project trying to find out, to what extend bigrams can be used for semantic information.
