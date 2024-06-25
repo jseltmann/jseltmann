@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-Hey, I'm Johann Seltmann, software developer at iur.crowd.
+Hey, I'm Johann Seltmann, working in NLP and Machine Learning more generally.
 
 
 Things I'm interested in include:
