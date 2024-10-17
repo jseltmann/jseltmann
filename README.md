@@ -1,17 +1,8 @@
-<!--- - 👋 Hi, I’m @jseltmann
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
 Hey, I'm Johann Seltmann, working in NLP and Machine Learning more generally.
+My professional focus so far has been on the development of a legal document search, the development of a cloud portal for customers and the evaluation and integration of AI technologies at iur.crowd.
+I'm excited by language and computers and about being part of the developments in language AI. I want to make AI helpful for people and society e.g. in the public sector, in education, and in assistance for daily life.
 
-
-Things I'm interested in include:
-- computational linguistics
-- especially simple language
-- reinforcement learning and evolutionary algorithms
-- European 🇪🇺 and World 🇺🇳 federalism
+In my free time, I work in an NGO towards a federal and democratic Europe and play the baritone in a church brass band.
 
 Here are some of my projects, in various stages of well-documentedness:
 - [DSGeneration](https://github.com/jseltmann/DSGeneration): A research project trying to find out, to what extend bigrams can be used for semantic information.
